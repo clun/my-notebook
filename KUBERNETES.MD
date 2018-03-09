@@ -26,9 +26,9 @@ brew install kompose
 
 #### [WebUI](https://kubernetes.io/docs/tools/kompose/user-guide/)
 
-`
+```bash
 kubectl create -f https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/recommended/kubernetes-dashboard.yaml
-`
+```
 
 ## From Docker Compose to Kubernetes
 
